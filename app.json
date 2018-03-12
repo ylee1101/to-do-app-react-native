@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "to-do-app-react-native",
-    "description": "This project is really great.",
+    "description": "To do app with react native",
     "slug": "to-do-app-react-native",
     "privacy": "public",
     "sdkVersion": "25.0.0",
